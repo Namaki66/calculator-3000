@@ -10,16 +10,23 @@ namespace calculator_3000
     {
         static void Main(string[] args)
         {
-            int a = 1; int b = 2;
+            //
+            int a, b;
+
+
             Console.WriteLine("le calculator 3000 ");
-
+            Console.WriteLine();
             Console.WriteLine("-------------------");
-
+            Console.WriteLine();
+            Console.WriteLine("ecrivez votre premier chifre ");
            a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("et mnt le deuxieme");
             b = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("choisisez votre operation ");
+            Console.WriteLine("(+) (-) (*) (/)");
 
 
-            Console.WriteLine("donnez moi un chiffre" + a);
+          
             Console.ReadLine();
 
             Console.ReadKey();
