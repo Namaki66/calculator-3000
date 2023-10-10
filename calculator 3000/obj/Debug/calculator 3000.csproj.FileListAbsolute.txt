@@ -1,0 +1,7 @@
+E:\calculator 3000\calculator 3000\bin\Debug\calculator 3000.exe.config
+E:\calculator 3000\calculator 3000\bin\Debug\calculator 3000.exe
+E:\calculator 3000\calculator 3000\bin\Debug\calculator 3000.pdb
+E:\calculator 3000\calculator 3000\obj\Debug\calculator 3000.csproj.AssemblyReference.cache
+E:\calculator 3000\calculator 3000\obj\Debug\calculator 3000.csproj.CoreCompileInputs.cache
+E:\calculator 3000\calculator 3000\obj\Debug\calculator 3000.exe
+E:\calculator 3000\calculator 3000\obj\Debug\calculator 3000.pdb
